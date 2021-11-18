@@ -1,0 +1,6 @@
+# Not essential for the project, just for testing
+name: example_env
+dependencies:
+  - python=3.9
+  - numpy
+  - pybind11
